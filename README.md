@@ -24,7 +24,10 @@ Për të ekzekutuar këtë projekt, ju duhen këto gjëra:
 2.  **Run the script** nga terminali:
 
     ```bash
-    python detector.py
+    python detector.py (v1)
+    ```
+    ```bash
+    python dlib_detector.py (v2)
     ```
 
 3.  Një dritare e kamerës (webcam) do të hapet, duke treguar rezultatin e detektimit në kohë reale.
